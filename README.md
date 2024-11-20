@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" width="1300" height="350" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="image">
+
 <h1 align="center">Hi 👋, I'm Abhishek Ekal</h1>
 <h3 align="center">A passionate Full Stack java developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="image">
