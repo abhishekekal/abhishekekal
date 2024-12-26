@@ -46,14 +46,16 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekekal&show_icons=true&locale=en&layout=compact" alt="abhishekekal" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekekal&show_icons=true&locale=en&layout=compact&theme=radical" alt="abhishekekal" />
 </p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=abhishekekal&show_icons=true&locale=en" alt="abhishekekal" />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekekal&show_icons=true&theme=radical)
 
 ---
+
+
+
+
 
 ### 🌟 Fun Fact
 - I love solving puzzles and challenges in my free time! 🧩
