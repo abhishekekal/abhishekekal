@@ -1,5 +1,4 @@
 
-
 <h1 align="center"> Hi 👋, I'm Abhishek Ekal</h1>
 
 <h3 align="center">A passionate Full Stack java developer from India</h3>
@@ -11,9 +10,11 @@
 
 ### 🔭 Current Work
 - I’m currently working on [Agricos Ecommerce Website](https://abhishekekal.github.io/Ecomm_agricos/)
+  
 
 ### 🌱 Learning
 - I’m currently learning **Spring Boot, Angular, and DSA in Java**
+  
 
 ### 👨‍💻 Projects
 - All of my projects are available at [All Projects](https://github.com/abhishekekal)
