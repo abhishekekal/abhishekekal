@@ -51,7 +51,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekekal&show_icons=true&locale=en&layout=compact&theme=radical" alt="abhishekekal" />
 </p>
 
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/1-repos-per-language.svg)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekekal&show_icons=true&theme=radical)
 
 ---
