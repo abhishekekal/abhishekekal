@@ -52,7 +52,9 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekekal&show_icons=true&theme=radical)
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=abhishekekal&show_icons=true&theme=radical" alt ="abhishekekal"/>
 
 ---
 
